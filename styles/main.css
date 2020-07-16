@@ -30,7 +30,6 @@
 	ol, ul {
 		list-style: none;
 	}
-
 	blockquote, q {
 		quotes: none;
 	}
@@ -2536,12 +2535,13 @@
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		margin: 0 0 0 0;
+		padding-left: 0;
+        font-size: 2em;
 	}
 
 		ol li {
-			padding-left: 0.25em;
+			padding-left: 0;
 		}
 
 	ul {
