@@ -134,6 +134,12 @@ body{
 .social-icons a.yt i{
   color: #ff0000;
 }
+.social-icons a.line i{
+  color: #7CFC00;
+}
+.social-icons a.gh i{
+  color: #000000;
+}
 .wrapper .buttons{
   display: flex;
   width: 100%;
